@@ -1,8 +1,8 @@
 # Learn-Process-States
 This repo will be used to learn the different states that a process goes through on a linux machine.
-Feel free to create pull requests to improve the code/ add any new states for processes. 
+Feel free to create pull requests to improve the code(even if it is just adding comments)/ add any new states for processes. 
 
-Video Link: 
+Video Link: https://youtu.be/KBTXFj2f0TM
 
 Instructions to use:
 - This script is written in python3
